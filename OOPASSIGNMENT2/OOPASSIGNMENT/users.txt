@@ -1,0 +1,6 @@
+1,1,1,admin
+2,2,2,user
+4,4,4,admin
+5,5,5,user
+marwan,mero,mero,user
+bruh2,bruh2@gmail.com,bruh123,admin
